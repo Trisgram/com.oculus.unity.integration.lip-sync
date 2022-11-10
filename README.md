@@ -8,21 +8,21 @@ Unofficial part of [Oculus Unity Integration](https://developer.oculus.com/downl
 
 ### Via Unity Package Manager and OpenUPM
 
-- In Unity open "Edit" -> "Project Settings..."
+- In Unity open `Edit` -> `Project Settings...`
 - Select the `Package Manager`
 ![scoped-registries](https://raw.githubusercontent.com/Trisgram/com.oculus.unity.integration/main/.documentation/images/openUPM.jpg)
 - Add the OpenUPM package registry:
-  - `Name: OpenUPM`
-  - `URL:` `https://package.openupm.com`
+  - `Name`: `OpenUPM`
+  - `URL`: `https://package.openupm.com`
   - `Scope(s):`
     - `com.oculus`
 - Apply
-- Open "Window->"Unity Package Manager"
+- Open `Window` -> `Unity Package Manager`
 - Change the Registry from Unity to `My Registries`
 - Add the `Oculus Integration LipSync` package
 
 ### Via Unity Package Manager and Git url
-- Open "Window" -> "Unity Package Manager"
+- Open `Window` -> `Unity Package Manager`
 - Add package from git url...
 - type/paste in: `https://github.com/Trisgram/com.oculus.unity.integration.lip-sync.git`
 
