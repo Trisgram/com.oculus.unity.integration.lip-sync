@@ -3,7 +3,7 @@
 	"displayName": "Oculus Integration LipSync",
 	"description": "Unofficial mirror of the Oculus Unity-Integration LipSync as a package for Unity.",
 	"keywords": [],
-	"version": "20.0.0",
+	"version": "29.0.0",
 	"unity": "2021.2",
 	"license": "Oculus SDK License",
 	"author": "Facebook Technologies, LLC",
